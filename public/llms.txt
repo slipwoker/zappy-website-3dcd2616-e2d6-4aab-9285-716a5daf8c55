@@ -1,0 +1,61 @@
+# פרויקט לירוי — Generative Engine Optimization Map
+
+> A עמותה חברתית / הכשרה טכנולוגית business.
+
+---
+
+## Pages
+
+### בית
+https://-3dcd2616.zappy5.app
+גלה תוכנית הכשרה להייטק לחיילי מילואים מקצועית המספקת תוצאות אמיתיות. צור קשר היום לייעוץ חינם!
+
+### התוכנית
+https://-3dcd2616.zappy5.app/program
+גלה את תוכנית הכשרה להייטק לחיילי מילואים המקיפה ביותר. 6 חודשי הכשרה עם משרת סטודנט ומנטורינג אישי.
+
+### שותפים
+https://-3dcd2616.zappy5.app/partners
+למעלה מ-50 חברות הייטק שותפות המציעות משרות סטודנט ותפקידי ליבה למשתתפי תוכנית הכשרה להייטק לחיילי מילואים.
+
+### אודות
+https://-3dcd2616.zappy5.app/about
+למד על פרויקט לירוי - עמותה חברתית המחויבת לשילוב לוחמי מילואים בהייטק דרך תוכנית הכשרה ייחודית.
+
+### הרשמה
+https://-3dcd2616.zappy5.app/contact
+הצטרפו לתוכנית הכשרה להייטק לחיילי מילואים המובילה. מלאו את טופס ההרשמה ונחזור אליכם בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3dcd2616.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3dcd2616.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3dcd2616.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פרויקט לירוי
+פרויקט לירוי is a business in the עמותה חברתית / הכשרה טכנולוגית industry.
+
+## Target Audience
+לוחמי מילואים בוגרי תארים טכנולוגיים, חברות הייטק, תורמים
+
+## Industry
+עמותה חברתית / הכשרה טכנולוגית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-3dcd2616.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-3dcd2616.zappy5.app/robots.txt
